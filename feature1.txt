@@ -1,0 +1,5 @@
+git remote -v #to connect with remote
+to get access 
+use # git remote add origin key repo link
+git checkout master
+git push origin master
